@@ -60,6 +60,11 @@ return a * b
 
 ### Additionally, I study web development on the educational site Udemy
 
+## 7. Language
+
+* Native Russian
+* Pre-Intermediate English
+
 
 
 
