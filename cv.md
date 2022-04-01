@@ -18,7 +18,7 @@ __Discord nickname:__ Elena Erofeeva#6238
 
 ## 2. Objective
 
-I would like to gain knowledge in front-end development. I like to see the result in the process of work, apply new features, interactive elements and animations.
+### I would like to gain knowledge in front-end development. I like to see the result in the process of work, apply new features, interactive elements and animations.
 
 ## 3. Skills
 
@@ -28,4 +28,32 @@ I would like to gain knowledge in front-end development. I like to see the resul
 * React/Redux (basic)
 * Git
 * WebStorm, VScode
+
+## 4. Code example(task when registering on Codewars)
+
+### The code does not execute properly. Try to figure out why.
+
+```JavaScript 
+function multiply(a, b){
+  a * b
+}
+```
+
+### Answer:
+
+```JavaScript 
+function multiply (a, b) {
+return a * b
+}
+```
+## 5. Work Experience
+
+### Now I have no experience with commercial projects. I have projects with which I worked on the course from Innopolis University.
+
+* [Gitlab Repository](https://gitlab.com/elena2602/erofeeva_elena_pcs_frontend_21_09_homeworks/-/tree/develop)
+
+
+
+
+
 
