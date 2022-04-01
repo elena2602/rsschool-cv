@@ -56,6 +56,8 @@ return a * b
 
 1. Kazan National Research Technological University (2012-2015)
 
+2. Innopolis University(10/2021-12/2021)
+
 ### Additionally, I study web development on the educational site Udemy
 
 
