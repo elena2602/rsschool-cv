@@ -52,6 +52,13 @@ return a * b
 
 * [Gitlab Repository](https://gitlab.com/elena2602/erofeeva_elena_pcs_frontend_21_09_homeworks/-/tree/develop)
 
+## 6. Education
+
+1. Kazan National Research Technological University (2012-2015)
+
+### Additionally, I study web development on the educational site Udemy
+
+
 
 
 
