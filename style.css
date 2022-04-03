@@ -1,0 +1,60 @@
+
+body {
+    background: rgb(133, 133, 133);
+    padding-left: 20px;
+}
+h1{
+    text-align: center;
+}
+.info{
+    display: flex;
+    flex-wrap: wrap;
+    background: rgb(124, 124, 124);
+    padding: 10px;
+    margin: 10px;
+}
+
+img{
+    width: 150px;
+    border-radius: 3%;
+    box-shadow: 2px 2px 20px 5px rgb(138, 138, 138);
+    margin: 10px 20px;
+}
+a:visited{
+    color: rgb(175, 175, 175);
+
+}
+.objective{
+    background: rgb(124, 124, 124);
+    padding: 10px;
+    margin: 10px;
+     
+}
+
+.skills{
+    background: rgb(124, 124, 124);
+    padding: 10px;
+    margin: 10px;
+}
+
+.example {
+    background: rgb(124, 124, 124);
+    padding: 10px;
+    margin: 10px;
+}
+.work {
+    background: rgb(124, 124, 124);
+    padding: 10px;
+    margin: 10px;
+}
+.education {
+    background: rgb(124, 124, 124);
+    padding: 10px;
+    margin: 10px;
+}
+.language {
+    background: rgb(124, 124, 124);
+    padding: 10px;
+    margin: 10px;
+}
+
